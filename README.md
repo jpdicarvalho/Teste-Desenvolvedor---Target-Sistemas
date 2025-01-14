@@ -34,7 +34,7 @@ Se você já possui um compilador ou interpretador JavaScript configurado em sua
    ```
    Caso não tenha o **Node.js** instalado, você pode [baixá-lo aqui](https://nodejs.org) e seguir as instruções de instalação.
 
-2. **Execute o código localmente**. Após verificar que o Node.js está instalado, navegue até o diretório onde o arquivo JavaScript está localizado e execute o código com o seguinte comando:
+2. Após verificar que o Node.js está instalado, navegue até o diretório onde o arquivo JavaScript está localizado e execute o código com o seguinte comando:
    ```bash
    node NomeDoArquivo.js
    ```
