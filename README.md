@@ -13,11 +13,9 @@ Existem duas formas principais para executar os arquivos JavaScript deste reposi
 
 ### 1. Usando um Compilador Online (Recomendado)
 
-Para maior conveniência, os códigos podem ser execultados diretamente em um compilador JavaScript online. Recomendo o uso das seguintes plataformas:
+Para maior conveniência, os códigos podem ser execultados diretamente em um compilador JavaScript online. Recomendo o uso de uma das seguintes plataformas:
 
 - [Programiz](https://www.programiz.com/javascript/online-compiler/)
-- [CodePen](https://codepen.io/)
-- [Replit](https://replit.com/)
 - [PlayCode](https://playcode.io/)
 
 Siga os passos abaixo para executar o código em um desses sites:
