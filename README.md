@@ -1,6 +1,6 @@
 # Desafios Técnicos Resolvidos em JavaScript
 
-Este repositório contém as soluções para uma série de desafios técnicos utilizando a linguagem **JavaScript**. Cada desafio foi resolvido em um arquivo individual, seguindo o padrão de nomeação: `Número da Questão' + '-' + 'Questão'.js`. Por exemplo: `1-Questão.js`.
+Este repositório contém as soluções para uma série de desafios técnicos utilizando a linguagem **JavaScript**. Cada desafio foi resolvido em um arquivo individual, seguindo o padrão de nomeação: `'Número da Questão' + '-' + 'Questão'.js`. Por exemplo: `1-Questão.js`.
 
 ## Linguagem Escolhida
 
